@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T08:08:07.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dhNCGcHzvHiSCVNjTp1H" version="15.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-05T08:08:46.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Y_2FoxQN6lYOcAmz3rNj" version="15.6.8" type="github" pages="2">
   <diagram id="L_9b_UmIfe8YwMNYyWJJ" name="Use Case">
     <mxGraphModel dx="783" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,13 +220,13 @@
         <mxCell id="dYwIi4U-rZAOznErBEEd-5" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dYwIi4U-rZAOznErBEEd-2" source="dYwIi4U-rZAOznErBEEd-6" target="dYwIi4U-rZAOznErBEEd-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYwIi4U-rZAOznErBEEd-6" value="Browse Products" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="dYwIi4U-rZAOznErBEEd-2">
+        <mxCell id="dYwIi4U-rZAOznErBEEd-6" value="Browse Food" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="dYwIi4U-rZAOznErBEEd-2">
           <mxGeometry x="35" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dYwIi4U-rZAOznErBEEd-7" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dYwIi4U-rZAOznErBEEd-2" source="dYwIi4U-rZAOznErBEEd-8" target="dYwIi4U-rZAOznErBEEd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYwIi4U-rZAOznErBEEd-8" value="Add Product to Cart" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="dYwIi4U-rZAOznErBEEd-2">
+        <mxCell id="dYwIi4U-rZAOznErBEEd-8" value="Add Food to Cart" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="dYwIi4U-rZAOznErBEEd-2">
           <mxGeometry x="35" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dYwIi4U-rZAOznErBEEd-9" value="Checkout" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="dYwIi4U-rZAOznErBEEd-2">
